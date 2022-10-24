@@ -17,4 +17,4 @@ spec:
       - image: docker.io/nginxinc/nginx-unprivileged:1.23
         name: nginx
         ports:
-        - containerPort: 80
+        - containerPort: 8080
