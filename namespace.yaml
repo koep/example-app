@@ -1,7 +1,0 @@
-kind: Namespace
-apiVersion: project.openshift.io/v1
-metadata:
-  name: mission-critical-application
-spec:
-  finalizers:
-    - kubernetes
